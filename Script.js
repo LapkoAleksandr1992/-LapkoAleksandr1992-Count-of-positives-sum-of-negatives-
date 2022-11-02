@@ -12,4 +12,4 @@ function countPositivesSumNegatives(input){
       }
     }
     return array;
-}
+} //11121212323232323232323212131!!!!!!
